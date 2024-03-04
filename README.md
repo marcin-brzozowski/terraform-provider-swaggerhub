@@ -14,6 +14,40 @@ SwaggerHub offers a "Git Sync" integration, which allows for automatically synch
 
 The goal of this project is to create a Terraform Provider, which would allow to manage API specifications inside SwaggerHub, using Terraform Resources definitions, following tha IaaC approach.
 
+## Project Scope
+The following SwaggerHub resources/operations support will be implemented by the SwaggerHub Terraform Provider:
+
+- [ ] APIs Management
+  - [ ] Read
+  - [ ] Write
+  - [ ] Update
+  - [ ] Delete
+- [ ] Projects Management
+  - [ ] Read
+  - [ ] Write
+  - [ ] Update
+  - [ ] Delete
+- [ ] Domains Management
+  - [ ] Read
+  - [ ] Write
+  - [ ] Update
+  - [ ] Delete
+- [ ] Integrations Management
+  - [ ] Read
+  - [ ] Write
+  - [ ] Update
+  - [ ] Delete
+- [ ] Templates Management
+  - [ ] Read
+  - [ ] Write
+  - [ ] Update
+  - [ ] Delete
+
+Additional features:
+- Generating models / client / server code based on the API spec and publishing it into 3rd party storage, e.g. S3, Azure Blob Storage, etc.
+- Generating change logs for API definitions changes and publishing them into 3rd party storage
+- Detecting breaking changes when doing API definition updates  
+
 ## License
 
 This provider is distributed under the Mozilla Public License v2.0 license found in the [`LICENSE`](./LICENSE) file.
