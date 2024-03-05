@@ -44,9 +44,18 @@ The following SwaggerHub resources/operations support will be implemented by the
   - [ ] Delete
 
 Additional features:
-- Generating models / client / server code based on the API spec and publishing it into 3rd party storage, e.g. S3, Azure Blob Storage, etc.
-- Generating change logs for API definitions changes and publishing them into 3rd party storage
-- Detecting breaking changes when doing API definition updates  
+- [ ] CI/CD Pipeline
+  - [ ] Tests automation
+  - [ ] [Terraform Provider docs generation](https://github.com/hashicorp/terraform-plugin-docs/)
+  - [ ] Publishing the provider to Terraform Registry
+- [ ] Generating models / client / server code based on the API spec and publishing it into 3rd party storage, e.g. S3, Azure Blob Storage, etc.
+- [ ] Generating change logs for API definitions changes and publishing them into 3rd party storage
+- [ ] Detecting breaking changes when doing API definition updates  
+
+## Learning Resources
+
+Community providers:
+- https://github.com/tdabasinskas/terraform-provider-backstage
 
 ## License
 
