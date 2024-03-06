@@ -56,6 +56,7 @@ Additional features:
 
 Community providers:
 - https://github.com/tdabasinskas/terraform-provider-backstage
+- https://github.com/HenriquePiccolo/terraform-provider-grafana-v2
 
 ## License
 
