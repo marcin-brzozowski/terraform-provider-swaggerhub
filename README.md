@@ -53,6 +53,10 @@ Additional features:
 - [ ] Detecting breaking changes when doing API definition updates  
 
 ## Learning Resources
+- https://developer.hashicorp.com/terraform/plugin/code-generation/specification (Terraform Plugin Framework SDK Reference)
+- https://developer.hashicorp.com/terraform/plugin/code-generation/workflow-example
+- https://developer.hashicorp.com/terraform/plugin/code-generation/framework-generator
+- https://developer.hashicorp.com/terraform/plugin/code-generation/openapi-generator
 
 Community providers:
 - https://github.com/tdabasinskas/terraform-provider-backstage
