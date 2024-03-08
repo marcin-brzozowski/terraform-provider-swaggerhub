@@ -59,7 +59,10 @@ Additional features:
 - https://developer.hashicorp.com/terraform/plugin/code-generation/openapi-generator
 
 Community providers:
+- https://github.com/schubergphilis/terraform-provider-influx
 - https://github.com/tdabasinskas/terraform-provider-backstage
+- https://github.com/scastria/terraform-provider-apigee
+- https://github.com/pablovarela/terraform-provider-slack
 - https://github.com/HenriquePiccolo/terraform-provider-grafana-v2
 
 ## License
