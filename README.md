@@ -50,7 +50,11 @@ Additional features:
   - [ ] Publishing the provider to Terraform Registry
 - [ ] Generating models / client / server code based on the API spec and publishing it into 3rd party storage, e.g. S3, Azure Blob Storage, etc.
 - [ ] Generating change logs for API definitions changes and publishing them into 3rd party storage
-- [ ] Detecting breaking changes when doing API definition updates  
+- [ ] Detecting breaking changes when doing API definition updates
+
+SwaggerHub Portal:
+- Consider creating provider for SwaggerHub Portal to support creating documentation in IaaC fashion.
+- Separate repository for SwaggerHub Portal Terraform Provider? 
 
 ## Learning Resources
 - https://developer.hashicorp.com/terraform/plugin/code-generation/specification (Terraform Plugin Framework SDK Reference)
