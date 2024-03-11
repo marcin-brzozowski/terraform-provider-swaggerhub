@@ -62,7 +62,7 @@ SwaggerHub Portal:
   - Creating Products
   - Creating Pages inside Products
   - Linking APIs to Pages
-  - Support for sub-pages
+  - Support for sub-pages and linking APIs
   - Manage access to Products / Pages
 
 ## Learning Resources
