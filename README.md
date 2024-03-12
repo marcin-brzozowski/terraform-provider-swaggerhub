@@ -66,6 +66,8 @@ SwaggerHub Portal:
   - Manage access to Products / Pages
 
 ## Learning Resources
+
+Documentation:
 - https://developer.hashicorp.com/terraform/plugin/code-generation/specification (Terraform Plugin Framework SDK Reference)
 - https://developer.hashicorp.com/terraform/plugin/code-generation/workflow-example
 - https://developer.hashicorp.com/terraform/plugin/code-generation/framework-generator
