@@ -54,7 +54,7 @@ Additional features:
 
 SwaggerHub Portal:
 - Consider creating provider for SwaggerHub Portal to support creating documentation in IaaC fashion.
-- Separate repository for SwaggerHub Portal Terraform Provider?
+- Separate repository for SwaggerHub Portal Terraform Provider
 - Storing docs as markdown files
   - Support for git repository
   - Support for Cloud Storage
