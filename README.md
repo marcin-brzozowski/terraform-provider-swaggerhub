@@ -67,6 +67,9 @@ SwaggerHub Portal:
 
 ## Learning Resources
 
+Blog Posts:
+- https://superorbital.io/blog/custom-terraform-providers/
+
 Documentation:
 - https://developer.hashicorp.com/terraform/plugin/code-generation/specification (Terraform Plugin Framework SDK Reference)
 - https://developer.hashicorp.com/terraform/plugin/code-generation/workflow-example
